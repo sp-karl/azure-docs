@@ -69,6 +69,9 @@ The following SharePoint server versions are supported.
 * SharePoint server 2013 Enterprise
 * SharePoint server 2016 Standard
 * SharePoint server 2016 Enterprise
+* SharePoint server 2019 Standard
+* SharePoint server 2019 Enterprise
+
 
 ### Things to keep in mind
 
